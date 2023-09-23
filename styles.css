@@ -95,3 +95,13 @@ body {
     color: hsl(227, 10%, 46%);
     font-weight: 400;
  }
+
+ .attribution {
+    margin-top: 20px;
+    color: white;
+ }
+
+ .attribution span {
+    display: block;
+    margin-top: 20px;
+ }
